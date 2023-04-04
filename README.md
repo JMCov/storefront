@@ -12,7 +12,7 @@ Today, we begin the first of a 4-Phase build of the storefront application, writ
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/rkgallaway/server-deployment-practice-d51/actions) 
+- [GitHub Actions ci/cd](https://github.com/JMCov/storefront/actions) 
 
 #### How to initialize/run your application
 
